@@ -1,0 +1,15 @@
+{
+  "name": "icloud-mail-generator",
+  "version": "0.0.1",
+  "description": "This js package is capable of generating unlimited legit mails using icloud+ subscription.",
+  "main": "mail-generator.js",
+  "scripts": {
+    "test": "node mail-generator.js"
+  },
+  "author": "Muhammad Ali",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^21.1.1"
+  }
+}
